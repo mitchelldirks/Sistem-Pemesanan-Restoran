@@ -28,3 +28,8 @@
                         <span class="fa-desktop fa"></span>Laporan 
                       </a>
                     </li>
+                    <li >
+                      <a class=" nav-item bg-danger" href="logout.php">
+                        <i class="fa-close fa text-light" style="color: #fff;"></i> <span class="text-light" style="color: #fff;">Logout</span> 
+                      </a>
+                    </li>

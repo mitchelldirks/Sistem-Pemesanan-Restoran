@@ -46,6 +46,7 @@ function bulan($bln)
 
 				</form>
 				<?php else: ?>
+					<span class="float-right"><a href="reports-print.php?tahun=<?php echo $_GET['tahun'] ?>&bulan=<?php echo $_GET['bulan'] ?>" target="_blank"><i class="fa fa-print"></i></a></span>
 					<div class="table-responsive-lg">
 						<table class="table table-hover">
 							<thead>
